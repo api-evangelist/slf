@@ -39,7 +39,6 @@ apis:
   - name: SLF
     description: "German city, country, river, database"
     humanURL: https://github.com/slftool/slftool.github.io/blob/master/API.md
-    baseURL: https://github.com/slftool/slftool.github.io/blob/master/API.md
     tags:
       - Geocoding
     properties:
